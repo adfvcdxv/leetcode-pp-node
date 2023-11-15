@@ -63,8 +63,7 @@ const unknowns = [
   "5436888893",
   "wxid_tvkpmouwp0n522",
   // "820064276"
-  "wxid_7490714906511",
-  "13781000528"
+  "wxid_7490714906511"
 ];
 const users = {};
 const lines = data.split(/\n/);
